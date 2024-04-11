@@ -564,7 +564,7 @@ body.offcanvas #colorlib-aside {
   -o-transform: translateX(0);
   transform: translateX(0);
   width: 300px;
-  background: #f2f3f7;
+  background: #faf2f2;
   z-index: 999;
   position: fixed;
 }
@@ -1436,7 +1436,7 @@ body.offcanvas .colorlib-nav-toggle {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background: #6c17ff
 }
 .colorlib-counters .icon {
   width: 100px;
@@ -1464,7 +1464,7 @@ body.offcanvas .colorlib-nav-toggle {
 .colorlib-counters .colorlib-counter {
   font-size: 40px;
   display: block;
-  color: white;
+  color: rgb(255, 255, 255);
   font-family: "Quicksand", Arial, sans-serif;
   width: 100%;
   font-weight: 700;
